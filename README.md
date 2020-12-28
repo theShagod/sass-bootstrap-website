@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Using bootstrap and sass to recreate the [sass-bootstrap] (https://getbootstrap.com/docs/5.0/customize/sass/) website.
+Using bootstrap and sass to recreate the [sass-bootstrap](https://getbootstrap.com/docs/5.0/customize/sass/) website.
 
 ### Description
 
